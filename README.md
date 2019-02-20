@@ -20,7 +20,7 @@
 ![alt text](https://raw.githubusercontent.com/yoonheekim/FriendFinder/master/app/images/home.jpg)
 
 ## 2. survey page
-1. Survey have 10 questions of choosing. Each answer is on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
+1. Survey has 10 questions of choosing. Each answer is on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 2. Each question should be filled out.
     ![alt text](https://raw.githubusercontent.com/yoonheekim/FriendFinder/master/app/images/survey.jpg)
 
